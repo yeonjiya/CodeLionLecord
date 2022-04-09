@@ -6,7 +6,7 @@
  
 ## CSS와 친해지기 
 * html에는
-<footer>copyright CODE LION. All rights reserved.</footer>
+ <footer>copyright CODE LION. All rights reserved.</footer>
 
 * css에는 
 footer {
