@@ -9,7 +9,7 @@
 ``` <footer>copyright CODE LION. All rights reserved.</footer> ```
 
 * css에는 
-``` css
+```
 footer {
     text-align: center;
     background-color: black;
