@@ -16,7 +16,7 @@
 } ```
 
 ## h1태그를 사용하여 자기소개하는 방법
-``` <!DOCTYPE html> ```
+``` <!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
@@ -27,4 +27,4 @@
         <h1>안녕하세요. 강연지입니다.</h1>
     </section>
 </body>
-</html>
+</html> ```
