@@ -14,9 +14,8 @@ footer {
     text-align: center;
     background-color: black;
     color: white;
-    
-}```
-
+    }
+ ```
 
 ## h1태그를 사용하여 자기소개하는 방법
 ```<!DOCTYPE html>
