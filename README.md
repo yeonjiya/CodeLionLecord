@@ -9,16 +9,16 @@
 ``` <footer>copyright CODE LION. All rights reserved.</footer> ```
 
 * css에는 
-``` footer {
+```footer {
     text-align: center;
     background-color: black;
     color: white;
-} ```
+}```
 
 ## h1태그를 사용하여 자기소개하는 방법
-``` <!DOCTYPE html>
-<html>
-<head>
+```<!DOCTYPE html> ```
+```<html>```
+```<head>```
     <meta charset="UTF-8">
     <title>자기 소개하기</title>
 </head>
