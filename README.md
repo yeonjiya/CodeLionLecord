@@ -1,10 +1,20 @@
 ﻿# CodeLionLecord
 # <일단 만드는 HTML/CSS>
 
-## -HTML과 인사하기
+## HTML과 인사하기
  <가방2><가방1>내용물입니다.</가방1></가방2>
+ 
+## CSS와 친해지기 
+html에는
+<footer>copyright CODE LION. All rights reserved.</footer>
+css에는 
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
 
-## -h3태그를 사용하여 자기소개하는 방법
+## h3태그를 사용하여 자기소개하는 방법
 <!DOCTYPE html>
 <html>
 <head>
