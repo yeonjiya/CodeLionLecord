@@ -16,8 +16,8 @@ footer {
 }
 
 ## h1태그를 사용하여 자기소개하는 방법
-```<!DOCTYPE html> 
-<html>
+```<!DOCTYPE html>```
+```<html>
 <head>
     <meta charset="UTF-8">
     <title>자기 소개하기</title>
