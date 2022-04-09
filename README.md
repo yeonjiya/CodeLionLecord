@@ -15,7 +15,7 @@ footer {
     color: white;
 }
 
-## h3태그를 사용하여 자기소개하는 방법
+## h1태그를 사용하여 자기소개하는 방법
 <!DOCTYPE html>
 <html>
 <head>
@@ -24,7 +24,7 @@ footer {
 </head>
 <body>
     <section>
-        <h3>안녕하세요. 강연지입니다.</h3>
+        <h1>안녕하세요. 강연지입니다.</h1>
     </section>
 </body>
 </html>
