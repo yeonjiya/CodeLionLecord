@@ -5,9 +5,9 @@
  <가방2><가방1>내용물입니다.</가방1></가방2>
  
 ## CSS와 친해지기 
-html에는
+* html에는
 <footer>copyright CODE LION. All rights reserved.</footer>
-css에는 
+* css에는 
 footer {
     text-align: center;
     background-color: black;
