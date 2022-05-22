@@ -1,4 +1,5 @@
 ## 우리는 key를 통해 value를 얻는다.
+https://github.com/yeonjiya/CodeLionLecord/issues/1#issue-1244169201
 
 ## 딕셔너리
 ```
